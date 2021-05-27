@@ -575,6 +575,10 @@ to {
 to {
     width: 60%}
 }
+h3
+{
+    orientation:right;
+}
 
 
 /* Coding section styling */
